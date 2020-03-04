@@ -197,6 +197,12 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
 }
+h1 {
+	color: white;
+}
+p {
+	color: white;
+}
 input {
 	width: 60%;
 	margin: 15px;
