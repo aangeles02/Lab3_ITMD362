@@ -201,7 +201,11 @@ html {
 label {
   display: block;
 }
-body{
+input[type=submit] {
+	width: 120px;
+	border-radius: 8px;
+}
+body {
 	background: #4169E1;
 	text-align: center;
 	font-family:"Times New Roman",Roboto,Lato;
