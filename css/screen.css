@@ -199,9 +199,12 @@ html {
 }
 h1 {
 	color: white;
+	font-size: 3em;
+	padding: 10px 20px;
 }
 p {
 	color: white;
+	padding: 10px 10px;
 }
 input {
 	width: 60%;
