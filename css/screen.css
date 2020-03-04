@@ -201,7 +201,9 @@ html {
 label {
   display: block;
 }
-
+body{
+	background: #4169E1
+}
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
